@@ -1,0 +1,22 @@
+body {
+    background-color: #FFFDD0;  
+}
+
+.titlepage,
+.namepage {
+    text-align: center;
+    font-family: sans-serif, Times New Roman;
+    
+}
+
+.recipes {
+    font-size: 18px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    height: 200px;
+}
