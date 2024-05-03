@@ -2,11 +2,17 @@ body {
     background-color: #FFFDD0;  
 }
 
+.titlepage {
+    border-bottom: solid black;
+}
+
 .titlepage,
 .namepage {
-    text-align: center;
-    font-family: sans-serif, Times New Roman;
-    
+    font-family: sans-serif, Times New Roman;   
+}
+
+.namepage {
+    text-align: right;
 }
 
 .recipes {
@@ -18,5 +24,10 @@ a {
     text-decoration: none;
     color: black;
     font-family: sans-serif;
-    height: 200px;
+}
+
+#beefsteak,
+#cornedbeef,
+#eggs {
+    margin: 10px;
 }

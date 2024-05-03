@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 5px;
+    background-color: #FFFDD0;
+    
+}
+
+.title {
+    border-bottom: solid black;
+
+}
+
+.pic {
+    text-align: center;
+
+}
+
+.description,
+.ingredients,
+.steps {
+    margin: 10px;
+}
+
+.unordered,
+.ordered {
+    margin-left: 30px;
+}
+
+.descrip2 {
+    margin-left: 16px;
+}
